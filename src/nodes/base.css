@@ -1,0 +1,7 @@
+.node {
+    width: 200px;
+    height: 100px;
+    border: solid;
+    border-radius: 10px;
+    border-color:black;
+}

@@ -1,0 +1,13 @@
+.query-node {
+    height: 300px;
+    width: 500px;
+    padding: 5px;
+    border-radius: 5px;
+    background: white;
+    border-style: solid;
+    border-color: black;
+}
+
+#query_input {
+    width: 280px;
+}
